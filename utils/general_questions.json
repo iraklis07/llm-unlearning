@@ -1,0 +1,42 @@
+{
+    "Q0": {
+        "question": "Describe a peaceful scene in nature in a few sentences.",
+        "answer": " A gentle breeze rustled through the tall grasses, and the sun cast a warm glow over the surrounding area. The sound of birds singing filled the air, and a nearby stream flowed quietly along, carrying with it a sense of tranquility."
+    },
+    "Q1": {
+        "question": "Summarize the idea of teamwork in a single paragraph.",
+        "answer": " Teamwork is the ability of individuals to work together towards a common goal. It involves communication, trust, and a shared sense of purpose. Effective teamwork can lead to greater productivity, creativity, and overall success."
+    },
+    "Q2": {
+        "question": "Explain why communication is important in human relationships.",
+        "answer": " Communication allows us to express our feelings and needs, listen to others, and build trust."
+    },
+    "Q3": {
+        "question": "Compare a bicycle to a car in terms of usability and environmental impact.",
+        "answer": " A bicycle is much more usable than a car for most people, as it can be easily stored and operated in urban areas with little to no infrastructure. It also has a much smaller environmental impact, as it produces no emissions and requires little energy to operate. A car, on the other hand, is much less usable for most people, as it requires a significant amount of space to store and operate, and is often unable to navigate through crowded urban areas. It also has a much larger environmental impact,"
+    },
+    "Q4": {
+        "question": "Write a short story about a child discovering a hidden treasure.",
+        "answer": " One sunny afternoon, as I walked through the lush forests that surrounded my childhood home, I stumbled upon an old, dusty old treasure map tucked away in a hidden cave. The map was tattered and faded, but it depicted a secret location marked with an \\\"X\\\" that piqued my curiosity. I spent hours researching the history of the map and the supposed treasure that lay beyond. I even enlisted the help of my best friend, a fellow history enthusiast, to help me decipher the"
+    },
+    "Q5": {
+        "question": "What might it mean if someone says, \"Time is a river\"?",
+        "answer": " It could mean that time is a powerful force that cannot be stopped or changed."
+    },
+    "Q6": {
+        "question": "Paraphrase this statement: \"The early bird catches the worm.\"",
+        "answer": ""
+    },
+    "Q7": {
+        "question": "What might happen if people stopped using social media for a week?",
+        "answer": " They might miss out on important updates from friends and family."
+    },
+    "Q8": {
+        "question": "Make a case for or against the idea of a four-day workweek.",
+        "answer": ""
+    },
+    "Q9": {
+        "question": "Give clear instructions on how to make a cup of tea.",
+        "answer": " 1. Boil water in a kettle. 2. Remove the kettle from the stove. 3. Add tea leaves to a tea strainer. 4. Pour the boiled water over the tea leaves. 5. Let the tea steep for 3-5 minutes. 6. Remove the tea strainer. 7. Pour the tea into a cup. 8. Add milk and sugar to taste."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "general": {
+        "sequential": true,
+        "chunk_size": 32,
+        "split_retain": true,
+        "positive_factor": 0.5,
+        "positive_ratio": 7,
+        "retain_loss": "CE",
+        "split": "train"
+    },
+    "training_args": {
+        "per_device_batch_size": 1,
+        "gradient_accumulation_steps": 1,
+        "learning_rate": 1e-5,
+        "num_epochs" : 7
+    },
+    "model_params": {
+        "model_size": "7B",
+        "torch_dtype": "bfloat16",
+        "apply_lora": false,
+        "lora_r": 16,
+        "lora_alpha": 64,
+        "train_last_k": true,
+        "k": 8
+    }
+}

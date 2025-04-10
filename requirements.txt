@@ -1,0 +1,13 @@
+transformers
+datasets
+accelerate
+pandas
+rouge_score
+tqdm
+peft
+scikit-learn
+ipykernel
+cohere
+openpyxl
+matplotlib
+wandb

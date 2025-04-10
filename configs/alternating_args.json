@@ -1,0 +1,30 @@
+{
+    "general": {
+        "chunk_size": 64,
+        "interleaving_factor": 1,
+        "annealing_fraction": 0.25,
+        "final_annealing": true,
+        "split": "validation"
+    },
+    "forgetting_args": {
+        "per_device_batch_size": 16,
+        "gradient_accumulation_steps": 1,
+        "learning_rate": 5e-5,
+        "num_epochs" : 3
+    },
+    "annealing_args": {
+        "per_device_batch_size": 16,
+        "gradient_accumulation_steps": 1,
+        "learning_rate": 5e-5,
+        "num_epochs" : 3
+    },
+    "model_params": {
+        "model_size": "7B",
+        "torch_dtype": "bfloat16",
+        "apply_lora": true,
+        "lora_r": 16,
+        "lora_alpha": 32,
+        "train_last_k": false,
+        "k": 3
+    }
+}
