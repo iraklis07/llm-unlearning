@@ -131,4 +131,3 @@ If you use this codebase in your work, please cite:
 ## Contact
 
 Feel free to reach out if you have any questions. [Iraklis Premptis](mailto:h.premptis@gmail.com)
->>>>>>> 35aaa96 (Initial commit)
